@@ -5,6 +5,8 @@
     "JS": "js",
     "HEAD": "html"
   },
+  "has_page_numbers": true,
   "name": "The Island of Doctor Moreau",
-  "type": "text"
+  "type": "text",
+  "book_id": 552
 }
